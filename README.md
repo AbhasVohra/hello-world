@@ -1,2 +1,2 @@
 # hello-world
-Learning about reporsitories
+Learning about repositories
